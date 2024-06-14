@@ -43,7 +43,7 @@ docker-compose build
 Start the Docker container using Docker Compose:
 
 ```bash
-docker-compose up
+docker-compose up development
 ```
 
 ### 5. Access the Application
