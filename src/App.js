@@ -54,7 +54,7 @@ this.changeColor(index)
 index++
 this.displayNextLetter(index)
 }
-, 1000)
+, 500)
 
 }
 
@@ -109,7 +109,7 @@ document.getElementById(id).classList.add('grey')
 index++
 this.changeColor(index)
 }
-  , 1000) 
+  , 500) 
 }
 
 
